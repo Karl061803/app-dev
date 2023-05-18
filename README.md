@@ -7,4 +7,4 @@ My first repository
 >
 > **Elite** - The series is set in Las Encinas, a fictional elite high school and revolves around the relationships between three working-class students enrolled at the school through a scholarship program and their wealthy classmates.
 >
-> **Alice in Borderland** - An aimless gamer and his two friends find themselves in a parallel Tokyo, where they're forced to compete in a series of sadistic games to survive.  
+> **Alice in Borderland** - An aimless gamer and his two friends find themselves in a parallel Tokyo, where they're forced to compete in a series of sadistic games to survive.
