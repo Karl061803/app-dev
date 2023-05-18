@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-<h5>Some of my favorite series are:</h5>
+**Some of my favorite series are:**
 
 <ul>
   <li>Lucifer</li>
